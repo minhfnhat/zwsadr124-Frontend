@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience unmatched comfort and productivity with our innovative work-from-home solutions, designed to elevate your workspace and inspire creativity.",
+        "title": "Transform Your Home Into a Work Sanctuary"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Experience unmatched comfort and productivity with our innovative work-from-home solutions, designed to elevate your workspace and inspire creativity.",
+        "title": "Transform Your Home Into a Work Sanctuary"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience unmatched comfort and productivity with our innovative work-from-home solutions, designed to elevate your workspace and inspire creativity.",
+        "title": "Transform Your Home Into a Work Sanctuary"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience unmatched comfort and productivity with our innovative work-from-home solutions, designed to elevate your workspace and inspire creativity.",
+        "title": "Transform Your Home Into a Work Sanctuary"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience unmatched comfort and productivity with our innovative work-from-home solutions, designed to elevate your workspace and inspire creativity.",
+        "title": "Transform Your Home Into a Work Sanctuary"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience unmatched comfort and productivity with our innovative work-from-home solutions, designed to elevate your workspace and inspire creativity.",
+        "title": "Transform Your Home Into a Work Sanctuary"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience unmatched comfort and productivity with our innovative work-from-home solutions, designed to elevate your workspace and inspire creativity.",
+        "title": "Transform Your Home Into a Work Sanctuary"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience unmatched comfort and productivity with our innovative work-from-home solutions, designed to elevate your workspace and inspire creativity.",
+        "title": "Transform Your Home Into a Work Sanctuary"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Transform Your Home Into a Work Sanctuary",
+  "subtitle": "Experience unmatched comfort and productivity with our innovative work-from-home solutions, designed to elevate your workspace and inspire creativity."
+}
